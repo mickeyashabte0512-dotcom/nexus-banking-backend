@@ -1,0 +1,19 @@
+{
+  "name": "nexus-apex-backend",
+  "version": "1.0.0",
+  "description": "Production Treasury & FX Routing Core Engine for Mickeyas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Mickeyas Habte",
+  "license": "ISC"
+}
